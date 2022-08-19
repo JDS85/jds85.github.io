@@ -2,7 +2,14 @@ body {
 background-color: lightblue;
 }
 
-h1 {
-color: navy;
-margin-left: 20px;
-}
+h1, h2, p {
+    text-align: center;
+    color: navy;
+  }
+  
+  .top {
+    width: 80%;
+    background-color: lightskyblue;
+    margin-left: auto;
+    margin-right: auto;
+  }
