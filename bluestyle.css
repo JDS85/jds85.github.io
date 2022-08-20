@@ -13,3 +13,24 @@ h1, h2, p {
     margin-left: auto;
     margin-right: auto;
   }
+
+  .left {
+    width: 80%;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .right {
+    width: 80%;
+    background-color: red;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .bottom {
+    width: 80%;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+  }
