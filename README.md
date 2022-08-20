@@ -11,3 +11,5 @@ I am currently taking about 3 online courses. I hope I don't get overwelmed.
 3. Upskillist Cybersecurity course.
 
 In freecodecamp I'm learning about responsive web design and in w3schools I'm learning how to use git from the command line. I still haven't started the cybersecurity course.
+
+"Never stop learning."
