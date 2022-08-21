@@ -8,7 +8,7 @@ h1, h2, p {
   }
   
 /* Temporary Div Decorations */
-div, header, footer {
+div {
     width: 200px;
     height: 25px;
 }
