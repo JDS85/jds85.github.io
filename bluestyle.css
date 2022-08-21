@@ -7,6 +7,13 @@ h1, h2, p {
     color: navy;
   }
   
+/* Temporary Div Decorations */
+div, header, footer {
+    width: 200px;
+    height: 25px;
+}
+
+/* This class styles the header part of the website */
   .top {
     width: 80%;
     background-color: lightskyblue;
@@ -14,6 +21,7 @@ h1, h2, p {
     margin-right: auto;
   }
 
+/* This class styles the left side of the website, navigation or menu */
   .left {
     width: 80%;
     background-color: black;
@@ -21,6 +29,7 @@ h1, h2, p {
     margin-right: auto;
   }
 
+/* This class styles the right or main content of the website */
   .right {
     width: 80%;
     background-color: red;
@@ -28,6 +37,7 @@ h1, h2, p {
     margin-right: auto;
   }
 
+/* This class styles the bottom part of the website, the footer */
   .bottom {
     width: 80%;
     background-color: black;
