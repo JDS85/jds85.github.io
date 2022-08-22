@@ -11,25 +11,28 @@ h1, h2, p {
     so I'm consolidating that to one type selector setting all divs to this */
 
 div {
+    width: 80%;
     margin-left: auto;
     margin-right: auto;
 }
-*/
+
+/* This class styles the entire page */
+.box {
+    background-color: green;
+}
+
 /* This class styles the header part of the website */
   .top {
-    width: 80%;
     background-color: lightskyblue;
   }
 
 /* This class styles the left side of the website, navigation or menu */
   .left {
-    width: 80%;
     background-color: black;
   }
 
 /* This class styles the right or main content of the website */
   .right {
-    width: 80%;
     background-color: red;
   }
 
