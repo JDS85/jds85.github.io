@@ -7,34 +7,34 @@ h1, h2, p {
     color: navy;
   }
 
+/* Noticed that all the classes have margin-left and margin-right set to auto
+    so I'm consolidating that to one type selector setting all divs to this */
+
+div {
+    margin-left: auto;
+    margin-right: auto;
+}
+*/
 /* This class styles the header part of the website */
   .top {
     width: 80%;
     background-color: lightskyblue;
-    margin-left: auto;
-    margin-right: auto;
   }
 
 /* This class styles the left side of the website, navigation or menu */
   .left {
     width: 80%;
     background-color: black;
-    margin-left: auto;
-    margin-right: auto;
   }
 
 /* This class styles the right or main content of the website */
   .right {
     width: 80%;
     background-color: red;
-    margin-left: auto;
-    margin-right: auto;
   }
 
 /* This class styles the bottom part of the website, the footer */
   .bottom {
     width: 80%;
     background-color: black;
-    margin-left: auto;
-    margin-right: auto;
   }
