@@ -1,16 +1,8 @@
-body {
+﻿body {
     background-color: black;
-} 
-
-h1, h2, p {
-    text-align: center;
-    color: navy;
-  }
-
-/* Noticed that all the classes have margin-left and margin-right set to auto
-    so I'm consolidating that to one type selector setting all divs to this */
-
-div {
+}
+/* Common values for centered elements */
+.centered {
     width: 80%;
     margin-left: auto;
     margin-right: auto;
@@ -22,21 +14,21 @@ div {
 }
 
 /* This class styles the header part of the website */
-  .top {
+.top {
     background-color: lightskyblue;
-  }
+}
 
 /* This class styles the left side of the website, navigation or menu */
-  .left {
+.left {
     background-color: black;
-  }
+}
 
 /* This class styles the right or main content of the website */
-  .right {
+.right {
     background-color: red;
-  }
+}
 
 /* This class styles the bottom part of the website, the footer */
-  .bottom {
+.bottom {
     background-color: black;
-  } 
+} 
