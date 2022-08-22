@@ -1,6 +1,6 @@
 body {
-    background-color: black;
-} 
+    background-color: lightblue;
+}
 
 h1, h2, p {
     text-align: center;
@@ -10,7 +10,7 @@ h1, h2, p {
 /* Noticed that all the classes have margin-left and margin-right set to auto
     so I'm consolidating that to one type selector setting all divs to this */
 
-div {
+.centered {
     width: 80%;
     margin-left: auto;
     margin-right: auto;
@@ -39,4 +39,5 @@ div {
 /* This class styles the bottom part of the website, the footer */
   .bottom {
     background-color: black;
-  } 
+  }
+
