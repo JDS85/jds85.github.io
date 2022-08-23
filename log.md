@@ -25,4 +25,5 @@
 ### Day 7:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">7/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: as part of learning I decided to go vanilla. Vanilla notepad, vanilla console, vanilla browser. Microsoft Visual Studio kicked my butt. I some how broke my index.htm files trying to revert back to a previous state. Edge’s developer tools also look like VS now:(</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1561798473539887106?ref_src=twsrc%5Etfw">August 22, 2022</a></blockquote>
 
-
+### Day 8:
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">8/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: it happened. I missed a day of FCC. But it’s not a complete loss. Spent the day getting my 9yr old set up with <a href="https://twitter.com/Roblox?ref_src=twsrc%5Etfw">@Roblox</a> Studio and messed around with moon Animator. Super excited. Tried to ease into html and css but says it’s too boring lol. But loves <a href="https://twitter.com/scratch?ref_src=twsrc%5Etfw">@scratch</a>!!</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1562213319783731200?ref_src=twsrc%5Etfw">August 23, 2022</a></blockquote>
