@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log - Start Date: August 16,2022
+# 100 Days Of Code Log - Start Date: August 16,2022
 
 ### Day 1: 
 
