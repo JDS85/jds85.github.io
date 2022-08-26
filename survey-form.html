@@ -11,7 +11,7 @@
   <p id="description">I created this survey to get to know all my fellow developers out there. Hope you like it!</p></header>
   <form id="survey-form">
     <fieldset>
-      <legend id="about-you">The basics: </legend>
+      <legend id="basics">The basics: </legend>
       <label id="name-label">What's your name? <input id="name" type="text" placeholder="Name" required /></label><br />
       <label id="email-label">What's your email? <input id="email" type="email" placeholder="Email" required /></label><br />
       <label id="number-label">What's your age? <input id="number" type="number" min="18" max="119" Placeholder="Over 18." /></label><br />
@@ -23,8 +23,8 @@
       <label><input type="radio" name="gender" value="none" checked /> I prefer not to say.</label><br />
     </fieldset>
     <fieldset>
-      <legend>Tell us more about yourself: </legend>
-      <label>How many years have you been coding? 
+      <legend id="about-you">Tell us more about yourself: </legend>
+      <label id="years-coding">How many years have you been coding? 
         <select id="dropdown" name="years-coding">
           <option value="">(Select an option)</option>
           <option value="new">Less than a year</option>
@@ -33,32 +33,32 @@
           <option value="ten-twenty">10 to 20 years</option>
           <option value="vet">More than 20 years</option>
       </select></label><br />
-      <label>Which coding languages do you know? 
-        <input type="checkbox" value="none" />None
-        <input type="checkbox" value="csharp" />C#
-        <input type="checkbox" value="cplusplus" />C++
-        <input type="checkbox" value="java" />Java
-        <input type="checkbox" value="javascript" />javaScript
-        <input type="checkbox" value="typscript" />TypeScript
-        <input type="checkbox" value="powershell" />PowerShell
-        <input type="checkbox" value="lua" />Lua
-        <input type="checkbox" value="python" />Python
-        <input type="checkbox" value="sql" />SQL
-        <input type="checkbox" value="ruby" />Ruby
-        <input type="checkbox" value="rust" />Rust
-        <input type="checkbox" value="html" />HTML/CSS
-        <input type="checkbox" value="go" />Go
-        <input type="checkbox" value="scratch" />Scratch
-        <input type="checkbox" value="perl" />Perl
-        <input type="checkbox" value="swift" />Swift
-        <input type="checkbox" value="git" />Git
-        <input type="checkbox" value="react" />React.js
-        <input type="checkbox" value="other" />Others not mentioned
-      </label><br />
-      <label name="wish-i-knew">Describe one thing you wish you knew before you started coding? <textarea placeholder="I wish I knew..."></textarea></label>
+      <p id="coding-known">Which coding languages do you know?
+        <label><input type="checkbox" name="coding-known" value="none" />None</label>
+        <label><input type="checkbox" name="coding-known" value="csharp" />C#</label>
+        <label><input type="checkbox" name="coding-known" value="cplusplus" />C++</label>
+        <label><input type="checkbox" name="coding-known" value="java" />Java</label>
+        <label><input type="checkbox" name="coding-known" value="javascript" />javaScript</label>
+        <label><input type="checkbox" name="coding-known" value="typscript" />TypeScript</label>
+        <label><input type="checkbox" name="coding-known" value="powershell" />PowerShell</label>
+        <label><input type="checkbox" name="coding-known" value="lua" />Lua</label>
+        <label><input type="checkbox" name="coding-known" value="python" />Python</label>
+        <label><input type="checkbox" name="coding-known" value="sql" />SQL</label>
+        <label><input type="checkbox" name="coding-known" value="ruby" />Ruby</label>
+        <label><input type="checkbox" name="coding-known" value="rust" />Rust</label>
+        <label><input type="checkbox" name="coding-known" value="html" />HTML/CSS</label>
+        <label><input type="checkbox" name="coding-known" value="go" />Go</label>
+        <label><input type="checkbox" name="coding-known" value="scratch" />Scratch</label>
+        <label><input type="checkbox" name="coding-known" value="perl" />Perl</label>
+        <label><input type="checkbox" name="coding-known" value="swift" />Swift</label>
+        <label><input type="checkbox" name="coding-known" value="git" />Git</label>
+        <label><input type="checkbox" name="coding-known" value="react" />React.js</label>
+        <label><input type="checkbox" name="coding-known" value="other" />Others not mentioned</label></p>
+      <label id="wish-i-knew">Describe one thing you wish you knew before you started coding?<br /> 
+        <textarea rows="4" cols="20" placeholder="I wish I knew..."></textarea></label>
     </fieldset>
     <input id="submit" type="submit" value="Finish" />
   </form>
-  <footer><p>&#169; 2022 Coded with &#128164; by JDS85</p></footer>
+  <footer><p>&#169; 2022 Coded with &#128164; by <a href="https://www.github.com/JDS85">JDS85</a></p></footer>
 </body>
 </html>
