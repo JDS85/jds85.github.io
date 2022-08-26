@@ -7,20 +7,20 @@
   <title>Survey Form</title>
 </head>
 <body>
-  <h1 id="title">Survey Form</h1>
-  <p id="description">This is a survey form.</p>
+  <header><h1 id="title">Developer's Survey Form</h1>
+  <p id="description">I created this survey to get to know all my fellow developers out there. Hope you like it!</p></header>
   <form id="survey-form">
     <fieldset>
-      <legend id="about-you">Tell us a bit about yourself: </legend>
-      <label id="name-label">Enter your first and last name: <input id="name" type="text" placeholder="Enter Name Here" required /></label>
-      <label id="email-label">Enter your email: <input id="email" type="email" placeholder="Enter Email Here" required /></label>
-      <label id="number-label">Enter your age: <input id="number" type="number" min="13" max="119"  placeholder="Age" /></label>
+      <legend id="about-you">The basics: </legend>
+      <label id="name-label">What's your name? <input id="name" type="text" placeholder="Name" required /></label><br />
+      <label id="email-label">What's your email? <input id="email" type="email" placeholder="Email" required /></label><br />
+      <label id="number-label">What's your age? <input id="number" type="number" min="18" max="119" Placeholder="Over 18." /></label><br />
     </fieldset>
     <fieldset>
-      <legend id="gender-identity">How do you identify: </legend>
-      <label><input type="radio" name="gender" value="man" /> I'm a man.</label>
-      <label><input type="radio" name="gender" value="woman" /> I'm a woman.</label>
-      <label><input type="radio" name="gender" value="none" checked />I prefer not to say.</label>
+      <legend id="gender-identity">What's your gender: </legend>
+      <label><input type="radio" name="gender" value="man" /> I'm a man.</label><br />
+      <label><input type="radio" name="gender" value="woman" /> I'm a woman.</label><br />
+      <label><input type="radio" name="gender" value="none" checked /> I prefer not to say.</label><br />
     </fieldset>
     <fieldset>
       <legend>Tell us more about yourself: </legend>
@@ -33,7 +33,7 @@
           <option value="ten-twenty">10 to 20 years</option>
           <option value="vet">More than 20 years</option>
       </select></label><br />
-<label>Which coding languages do you know? 
+      <label>Which coding languages do you know? 
         <input type="checkbox" value="none" />None
         <input type="checkbox" value="csharp" />C#
         <input type="checkbox" value="cplusplus" />C++
@@ -59,5 +59,6 @@
     </fieldset>
     <input id="submit" type="submit" value="Finish" />
   </form>
+  <footer><p>&#169; 2022 Coded with &#128164; by JDS85</p></footer>
 </body>
 </html>
