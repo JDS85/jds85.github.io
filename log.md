@@ -32,4 +32,4 @@
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">9/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: learning css box model by building a Rothko painting. Did the html part of my survey form, but still working on the css side of the form. Tried to code using TextEdit 😆 completely forgot to turn off the rich text format so just imagine the headache I had!</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1562575954257805314?ref_src=twsrc%5Etfw">August 24, 2022</a></blockquote>
 
 ### Day 10:
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">10/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: still working on the css for my survey. Creating a section on my GitHub for freecodecamp projects. And 70% done with W3Schools’ html course 😅</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1562938437476696064?ref_src=twsrc%5Etfw">August 25, 2022</a></blockquote>
