@@ -1,4 +1,5 @@
 /* stylesheet to go with freecodecamp's survey form project. */
+
 body {
   width: 100%;
   height: 100vh;
@@ -32,21 +33,21 @@ legend {
   margin-bottom: 10px;
   
 }
-section {
+div {
   column-count: 2; 
   column-gap: 1em;
 }
-section > label{
+div > label{
   white-space: nowrap;
 }
-/* label {
+label {
   display: block;
-} */
+}
 textarea {
   width: 100%;
 }
 
-input[type="submit"] {
+input[type="submit"], input[type="reset"] {
   display: block;
   width: 60%;
   margin: 1em auto;

@@ -7,14 +7,16 @@
   <title>Survey Form</title>
 </head>
 <body>
-  <header><h1 id="title">Developer's Survey Form</h1>
-  <p id="description">I created this survey to get to know all my fellow developers out there. Hope you like it!</p></header>
+  <header>
+    <h1 id="title">Developer's Survey Form</h1>
+    <p id="description">I created this survey to get to know all my fellow developers out there. Hope you like it!</p>
+  </header>
   <form id="survey-form">
     <fieldset>
       <legend id="basics">The basics: </legend>
-      <label id="name-label">What's your name? <input id="name" type="text" placeholder="Name" required /></label><br />
-      <label id="email-label">What's your email? <input id="email" type="email" placeholder="Email" required /></label><br />
-      <label id="number-label">What's your age? <input id="number" type="number" min="18" max="119" Placeholder="Over 18." /></label><br />
+      <label id="name-label">What's your name? <input id="name" type="text" placeholder="Name" name="name" required /></label><br />
+      <label id="email-label">What's your email? <input id="email" type="email" placeholder="Email" name="email" required /></label><br />
+      <label id="number-label">What's your age? <input id="number" type="number" min="18" max="119" Placeholder="Over 18." name="age" /></label><br />
     </fieldset>
     <fieldset>
       <legend id="gender-identity">What's your gender: </legend>
@@ -32,33 +34,40 @@
           <option value="five-ten">5 to 10 years</option>
           <option value="ten-twenty">10 to 20 years</option>
           <option value="vet">More than 20 years</option>
-      </select></label><br />
-      <p id="coding-known">Which coding languages do you know?
-        <label><input type="checkbox" name="coding-known" value="none" />None</label>
-        <label><input type="checkbox" name="coding-known" value="csharp" />C#</label>
-        <label><input type="checkbox" name="coding-known" value="cplusplus" />C++</label>
-        <label><input type="checkbox" name="coding-known" value="java" />Java</label>
-        <label><input type="checkbox" name="coding-known" value="javascript" />javaScript</label>
-        <label><input type="checkbox" name="coding-known" value="typscript" />TypeScript</label>
-        <label><input type="checkbox" name="coding-known" value="powershell" />PowerShell</label>
-        <label><input type="checkbox" name="coding-known" value="lua" />Lua</label>
-        <label><input type="checkbox" name="coding-known" value="python" />Python</label>
-        <label><input type="checkbox" name="coding-known" value="sql" />SQL</label>
-        <label><input type="checkbox" name="coding-known" value="ruby" />Ruby</label>
-        <label><input type="checkbox" name="coding-known" value="rust" />Rust</label>
-        <label><input type="checkbox" name="coding-known" value="html" />HTML/CSS</label>
-        <label><input type="checkbox" name="coding-known" value="go" />Go</label>
-        <label><input type="checkbox" name="coding-known" value="scratch" />Scratch</label>
-        <label><input type="checkbox" name="coding-known" value="perl" />Perl</label>
-        <label><input type="checkbox" name="coding-known" value="swift" />Swift</label>
-        <label><input type="checkbox" name="coding-known" value="git" />Git</label>
-        <label><input type="checkbox" name="coding-known" value="react" />React.js</label>
-        <label><input type="checkbox" name="coding-known" value="other" />Others not mentioned</label></p>
+        </select>
+      </label><br />
+      <p id="coding-lang">Which coding languages do you know?</p>
+      <div id="coding-lang">
+        <label><input type="checkbox" name="coding-lang" value="none" />None</label>
+        <label><input type="checkbox" name="coding-lang" value="csharp" />C#</label>
+        <label><input type="checkbox" name="coding-lang" value="cplusplus" />C++</label>
+        <label><input type="checkbox" name="coding-lang" value="java" />Java</label>
+        <label><input type="checkbox" name="coding-lang" value="javascript" />javaScript</label>
+        <label><input type="checkbox" name="coding-lang" value="typscript" />TypeScript</label>
+        <label><input type="checkbox" name="coding-lang" value="powershell" />PowerShell</label>
+        <label><input type="checkbox" name="coding-lang" value="lua" />Lua</label>
+        <label><input type="checkbox" name="coding-lang" value="python" />Python</label>
+        <label><input type="checkbox" name="coding-lang" value="sql" />SQL</label>
+        <label><input type="checkbox" name="coding-lang" value="ruby" />Ruby</label>
+        <label><input type="checkbox" name="coding-lang" value="rust" />Rust</label>
+        <label><input type="checkbox" name="coding-lang" value="html" />HTML/CSS</label>
+        <label><input type="checkbox" name="coding-lang" value="go" />Go</label>
+        <label><input type="checkbox" name="coding-lang" value="scratch" />Scratch</label>
+        <label><input type="checkbox" name="coding-lang" value="perl" />Perl</label>
+        <label><input type="checkbox" name="coding-lang" value="swift" />Swift</label>
+        <label><input type="checkbox" name="coding-lang" value="git" />Git</label>
+        <label><input type="checkbox" name="coding-lang" value="react" />React.js</label>
+        <label><input type="checkbox" name="coding-lang" value="other" selected />Other</label>
+      </div><br />
       <label id="wish-i-knew">Describe one thing you wish you knew before you started coding?<br /> 
-        <textarea rows="4" cols="20" placeholder="I wish I knew..."></textarea></label>
+        <textarea rows="4" cols="20" placeholder="I wish I knew..." name="wish-i-knew"></textarea>
+      </label>
     </fieldset>
-    <input id="submit" type="submit" value="Finish" />
+    <input id="submit" type="submit" name="submit" value="Finish" />
+    <input id="reset" type="reset" name="reset" value="Start Over" />
   </form>
-  <footer><p>&#169; 2022 Coded with &#128164; by <a href="https://www.github.com/JDS85">JDS85</a></p></footer>
+  <footer>
+    <p>&#169; 2022 Coded with &#128164; by <a href="https://www.github.com/JDS85">JDS85</a></p>
+  </footer>
 </body>
 </html>
