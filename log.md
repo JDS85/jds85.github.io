@@ -33,3 +33,6 @@
 
 ### Day 10:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">10/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: still working on the css for my survey. Creating a section on my GitHub for freecodecamp projects. And 70% done with W3Schools’ html course 😅</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1562938437476696064?ref_src=twsrc%5Etfw">August 25, 2022</a></blockquote>
+
+### Day 11:
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">11/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: Added a bunch of checkboxes to my survey form. Learned about column-count. Decided to add a bit of every freecodecamp lesson I learned up until the survey form. The form I submitted was not intended to be my final version. Not sure if I can change that in FCC!</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1563301884101738496?ref_src=twsrc%5Etfw">August 26, 2022</a></blockquote>
