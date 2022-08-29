@@ -44,3 +44,4 @@
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">13/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: Creating html and css files on my local pc and pushing changes to a GitHub repo. Acting like I hired myself to complete freecodecamp projects lol. I thought w3schools HTML course was long, 73 lessons, but CSS course is 127 lessons! And that’s just the Basics!!</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1564030849145864196?ref_src=twsrc%5Etfw">August 28, 2022</a></blockquote>
 
 ### Day 14:
+<blockquote class="Twitter-tweet"></blockquote>
