@@ -45,3 +45,7 @@
 
 ### Day 14:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">14/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: built a nutrition label from scratch. Pushed minor updates to my online page. Starting a 30 days of walk routine to keep myself active.</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1564392234631544833?ref_src=twsrc%5Etfw">August 29, 2022</a></blockquote>
+
+### Day 15:
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">15/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: finishing up freecodecamps’s accessibility quiz and learning about the Web Accessibility Initiative. Getting started on the Tribute Page. Can’t think of a subject for the page just yet. Three more projects before my responsive web design certification!</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1564758456296521728?ref_src=twsrc%5Etfw">August 30, 2022</a></blockquote>
+
