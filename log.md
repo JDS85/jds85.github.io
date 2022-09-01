@@ -49,3 +49,6 @@
 ### Day 15:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">15/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: finishing up freecodecamps’s accessibility quiz and learning about the Web Accessibility Initiative. Getting started on the Tribute Page. Can’t think of a subject for the page just yet. Three more projects before my responsive web design certification!</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1564758456296521728?ref_src=twsrc%5Etfw">August 30, 2022</a></blockquote>
 
+### Day 16:
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">16/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: just learned about css functions for properties that I never seen before. Like min() function for the height property? Is this built in javaScript? A friend who’s also learning to code asked me to join her on a project, woohoo! My first collaboration <a href="https://twitter.com/hashtag/LetsCode?src=hash&amp;ref_src=twsrc%5Etfw">#LetsCode</a></p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1565121167630925825?ref_src=twsrc%5Etfw">August 31, 2022</a></blockquote>
+
