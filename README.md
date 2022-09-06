@@ -5,10 +5,9 @@ My portfolio of projects I started to create in 2022.
 I eventually expect to have a github page listing all the projects I have created, and links to other projects I have worked on.
 
 ### Status:
-~~I am currently taking about 3 online courses.~~ Make that 4 courses. I hope I don't get overwelmed. 
+I am currently taking about 2 courses. I hope I don't get overwelmed. 
 1. Free code camp
-2. 
-4. Microsoft Learn
+2. W3 Schools
 
 In freecodecamp (FCC) I'm learning about responsive web design and in w3schools (W3) I learned how to use git from the command line. Microsoft Learn (MSL) courses will be focused on Visual Studio and Powershell. I still haven't started the cybersecurity course.
 
