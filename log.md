@@ -60,7 +60,11 @@
 
 ### Day 20: <blockquote class="twitter-tweet"><p lang="en" dir="ltr">20/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: still working. On a css version of a Picasso painting. Learning to apply fontAwesome css.</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1566576154642898944?ref_src=twsrc%5Etfw">September 4, 2022</a></blockquote>
 
-### Day 21:
+### Day 21: <blockquote class="twitter-tweet"><p lang="en" dir="ltr">21/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: learning to draw a piano using CSS. Half way through W3Schools CSS course. Should be starting JavaScript in a couple of days.</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1566969839658405889?ref_src=twsrc%5Etfw">September 5, 2022</a></blockquote>
+
+### Day 22: 
+
+### Day 23:
 
 
 
