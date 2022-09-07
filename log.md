@@ -56,7 +56,7 @@
 
 ### Day 18:
 
-### Day 19:
+### Day 19: <blockquote class="twitter-tweet"><p lang="en" dir="ltr">19/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: Learning to use html as a “canvas” and “painting” with css. Pretty interesting use of position property.</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1566214540941037568?ref_src=twsrc%5Etfw">September 3, 2022</a></blockquote>
 
 ### Day 20:
 
