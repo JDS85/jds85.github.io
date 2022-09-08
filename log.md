@@ -53,6 +53,7 @@
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">16/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: just learned about css functions for properties that I never seen before. Like min() function for the height property? Is this built in javaScript? A friend who’s also learning to code asked me to join her on a project, woohoo! My first collaboration <a href="https://twitter.com/hashtag/LetsCode?src=hash&amp;ref_src=twsrc%5Etfw">#LetsCode</a></p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1565121167630925825?ref_src=twsrc%5Etfw">August 31, 2022</a></blockquote>
 
 ### Day 17:
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">17/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: learned some best practices for screen readers and accessibility. Noticed that structuring a web page for screen reader is like creating a whole separate web page underneath the one you can see. Well, still learning so maybe there’s other techniques out there.</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1565491591955075075?ref_src=twsrc%5Etfw">September 2, 2022</a></blockquote> 
 
 ### Day 18:
 
