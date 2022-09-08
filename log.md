@@ -65,6 +65,6 @@
 ### Day 22: <blockquote class="twitter-tweet"><p lang="en" dir="ltr">22/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: continuing my CSS piano. Sometimes I scroll through classes I completed and noticed FCC updated a couple of lessons in the accessibility portion. Apparently input tags within label tags are not enough, they should be linked together as well, nested or not.</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1567347267291455489?ref_src=twsrc%5Etfw">September 6, 2022</a></blockquote>
 
 ### Day 23:
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">23/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: Started building a cityscape using css. Just learned about variables in css! How am I learning this now? Was this always possible? I always wondered if you can change the background of several objects all at once. Now I got my answer 😆</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1567663318457786369?ref_src=twsrc%5Etfw">September 7, 2022</a></blockquote>
 
 
