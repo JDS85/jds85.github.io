@@ -58,15 +58,22 @@
 ### Day 18:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">18/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: I got stuck almost an hour trying to validate a line of code. Turns out it was looking for a space 😭 I got a bit frustrated and ended up going for a walk and doing laundry lol. I’ll get back at it tonight!</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1565847437096484869?ref_src=twsrc%5Etfw">September 2, 2022</a></blockquote> 
 
-### Day 19: <blockquote class="twitter-tweet"><p lang="en" dir="ltr">19/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: Learning to use html as a “canvas” and “painting” with css. Pretty interesting use of position property.</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1566214540941037568?ref_src=twsrc%5Etfw">September 3, 2022</a></blockquote>
+### Day 19: 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">19/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: Learning to use html as a “canvas” and “painting” with css. Pretty interesting use of position property.</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1566214540941037568?ref_src=twsrc%5Etfw">September 3, 2022</a></blockquote>
 
-### Day 20: <blockquote class="twitter-tweet"><p lang="en" dir="ltr">20/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: still working. On a css version of a Picasso painting. Learning to apply fontAwesome css.</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1566576154642898944?ref_src=twsrc%5Etfw">September 4, 2022</a></blockquote>
+### Day 20: 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">20/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: still working. On a css version of a Picasso painting. Learning to apply fontAwesome css.</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1566576154642898944?ref_src=twsrc%5Etfw">September 4, 2022</a></blockquote>
 
-### Day 21: <blockquote class="twitter-tweet"><p lang="en" dir="ltr">21/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: learning to draw a piano using CSS. Half way through W3Schools CSS course. Should be starting JavaScript in a couple of days.</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1566969839658405889?ref_src=twsrc%5Etfw">September 5, 2022</a></blockquote>
+### Day 21: 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">21/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: learning to draw a piano using CSS. Half way through W3Schools CSS course. Should be starting JavaScript in a couple of days.</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1566969839658405889?ref_src=twsrc%5Etfw">September 5, 2022</a></blockquote>
 
-### Day 22: <blockquote class="twitter-tweet"><p lang="en" dir="ltr">22/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: continuing my CSS piano. Sometimes I scroll through classes I completed and noticed FCC updated a couple of lessons in the accessibility portion. Apparently input tags within label tags are not enough, they should be linked together as well, nested or not.</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1567347267291455489?ref_src=twsrc%5Etfw">September 6, 2022</a></blockquote>
+### Day 22: 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">22/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: continuing my CSS piano. Sometimes I scroll through classes I completed and noticed FCC updated a couple of lessons in the accessibility portion. Apparently input tags within label tags are not enough, they should be linked together as well, nested or not.</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1567347267291455489?ref_src=twsrc%5Etfw">September 6, 2022</a></blockquote>
 
 ### Day 23:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">23/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: Started building a cityscape using css. Just learned about variables in css! How am I learning this now? Was this always possible? I always wondered if you can change the background of several objects all at once. Now I got my answer 😆</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1567663318457786369?ref_src=twsrc%5Etfw">September 7, 2022</a></blockquote>
+
+### Day 24:
+
 
 
