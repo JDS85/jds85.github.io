@@ -74,6 +74,7 @@
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">23/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: Started building a cityscape using css. Just learned about variables in css! How am I learning this now? Was this always possible? I always wondered if you can change the background of several objects all at once. Now I got my answer 😆</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1567663318457786369?ref_src=twsrc%5Etfw">September 7, 2022</a></blockquote>
 
 ### Day 24:
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">24/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: Continuing with creating a cityscape using CSS. learned about the &quot;:root&quot; selector to place all my variable properties. I guess there&#39;s more to css than I thought.</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1567882653503832064?ref_src=twsrc%5Etfw">September 8, 2022</a></blockquote>
 
 ### Day 25:
 
