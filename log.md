@@ -82,7 +82,8 @@
 ### Day 26:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">26/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: got a refresher of the linear-gradient property and used it with color variables in CSS.</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1568705890571767810?ref_src=twsrc%5Etfw">September 10, 2022</a></blockquote>
 
-
+### Day 27:
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">27/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: learned about the repeating linear-gradient property and turned a border into a triangle shape for my cityscape project in freecodecamp.</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1569062003259633664?ref_src=twsrc%5Etfw">September 11, 2022</a></blockquote>
 
 
 
