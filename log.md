@@ -95,7 +95,7 @@
 ### Day 31:
 
 ### Day 32:
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">32/ <a href="https://twitter.com/hashtag/100daysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100daysOfCode</a>: working on my product landing page. Should be done with my CSS tutorials by this weekend, then on to javaScript!</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1570910879100841984?ref_src=twsrc%5Etfw">September 16, 2022</a></blockquote>
 
 
 
