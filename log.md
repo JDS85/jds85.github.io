@@ -87,6 +87,7 @@
 ### Day 29:
 
 ### Day 30:
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">30/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: Working through w3Schools css course as well has starting the magazine lesson in freecodecamp. I&#39;m glad fcc constantly reminds me how repetative projects can be! But I feel like I still need reference books...</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1570323976026750976?ref_src=twsrc%5Etfw">September 15, 2022</a></blockquote>
 
 ### Day 31:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">31/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: Finished the magazine project for freecodecamp. Learned about CSS Grid and the repeat function. Getting started on my landing page.</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1570324323646291969?ref_src=twsrc%5Etfw">September 15, 2022</a></blockquote> 
