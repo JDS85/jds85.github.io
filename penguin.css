@@ -163,7 +163,7 @@ body {
 
 .shirt {
   font: bold 16px Helvetica, sans-serif;
-  top: 200px;
+  top: 150px;
   left: 127.5px;
   z-index: 1;
   color: #6a6969;
@@ -171,7 +171,7 @@ body {
 
 .shirt div {
   font-weight:  initial;
-  top: 22.5px;
+  top: 20px;
   left: 12px;
 }
 
