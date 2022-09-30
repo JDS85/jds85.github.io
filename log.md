@@ -98,5 +98,6 @@
 
 ### BREAK:
 Decided to take a break and continue Day 33 on October 1st. 
+I pretty much finished freeCodeCamp's responsive design module and moving on to Javascript.
 
 
