@@ -109,6 +109,7 @@ Took a break from September 16 to September 30. 19 Days.
 ### Day 35:
 
 ### Day 36:
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">36/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: oh boy does javaScript make me dizzy! But it’s such a relief when I finally get the logic right and every seems to go right 😅. I’m learning for loops and iterating arrays within arrays 😵‍💫. I know if I stick through this I’ll be able to at least understand JS!</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1577446556579643395?ref_src=twsrc%5Etfw">October 4, 2022</a></blockquote>
 
 ### Day 37:
 
