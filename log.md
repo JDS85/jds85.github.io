@@ -104,7 +104,9 @@ Took a break from September 16 to September 30. 19 Days.
 ### Day 33: 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">33/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: Signed up for <a href="https://twitter.com/hashtag/Hacktoberfest?src=hash&amp;ref_src=twsrc%5Etfw">#Hacktoberfest</a> 2022. Started the JavaScript module in freecodeCamp. Once I do some touch ups on my 5 responsive design projects I’ll submit the last one and receive my certificate. I hope I do this hacktoberfest thing correctly. I want a shirt!!!</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1576354161469575168?ref_src=twsrc%5Etfw">October 1, 2022</a></blockquote>
 
-### Day 34:
+### Day 34: 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">34/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: as I start my freecodecamp lessons in JavaScript, I remember what my issue was… It’s difficult for me to memorize what each piece of javaScript does. And then fixing one thing only to find out you broke another thing. I get js in pieces but not as a whole.</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1576719668852637696?ref_src=twsrc%5Etfw">October 2, 2022</a></blockquote>
 
 ### Day 35:
 
