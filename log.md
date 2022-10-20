@@ -108,7 +108,8 @@ Took a break from September 16 to September 30. 19 Days.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">34/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: as I start my freecodecamp lessons in JavaScript, I remember what my issue was… It’s difficult for me to memorize what each piece of javaScript does. And then fixing one thing only to find out you broke another thing. I get js in pieces but not as a whole.</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1576719668852637696?ref_src=twsrc%5Etfw">October 2, 2022</a></blockquote>
 
-### Day 35:
+### Day 35: 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">35/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: already got stuck trying to solve a lesson. If anyone did freecodecamps “record Collection” lesson let me know how it went for you? How long did it take to solve? It took me the entire day and all of last night! I had a million ways but only one worked!!</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1577075794077097984?ref_src=twsrc%5Etfw">October 3, 2022</a></blockquote>
 
 ### Day 36:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">36/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: oh boy does javaScript make me dizzy! But it’s such a relief when I finally get the logic right and every seems to go right 😅. I’m learning for loops and iterating arrays within arrays 😵‍💫. I know if I stick through this I’ll be able to at least understand JS!</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1577446556579643395?ref_src=twsrc%5Etfw">October 4, 2022</a></blockquote>
